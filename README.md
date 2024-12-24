@@ -4,10 +4,13 @@ The aim of this project is to build a machine learning model that can classify i
 **Data Collection and Preprocessing:**
 Collecting a dataset of real and fake faces.
 Preprocessing images to make them suitable for training.
+
 **Model Building:**
 Designing and training a Convolutional Neural Network (CNN) for classification.
+
 **Evaluation:**
 Testing the model's performance on unseen data (created by splitting the exiting dataset).
+
 **Deployment:**
 Making the model accessible via a simple interface (future work).
 
@@ -30,6 +33,8 @@ Open an issue.
 Submit a pull request.
 Reach out to me directly.
 
-You can finf the dataset used here: https://www.kaggle.com/datasets/ciplab/real-and-fake-face-detection?resource=download
+You can find the dataset used here: https://www.kaggle.com/datasets/ciplab/real-and-fake-face-detection?resource=download
+
+
 Thank you for visiting! ⭐
 
