@@ -30,5 +30,6 @@ Open an issue.
 Submit a pull request.
 Reach out to me directly.
 
+You can finf the dataset used here: https://www.kaggle.com/datasets/ciplab/real-and-fake-face-detection?resource=download
 Thank you for visiting! ⭐
 
